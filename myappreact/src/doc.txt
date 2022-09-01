@@ -1,0 +1,5 @@
+1. URL->   The URL interface represents an object providing static methods used for creating object URLs. URL class is a global reference for require('url').URL https://nodejs.org/api/url.html#the-whatwg-url-api
+2. createObjectURL( object) => The URL.createObjectURL() static method creates a string containing a URL representing the object given in the parameter.
+3.PARAMETER => A File, Blob, or MediaSource object to create an object URL for.
+4.Return value:-----
+ A string containing an object URL that can be used to reference the contents of the specified source object.
